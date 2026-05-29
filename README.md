@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer with 3+ years of experience building scalable distributed systems, cloud-native microservices, and backend platforms.  
+I am a Software Engineer with 4+ years of experience building scalable distributed systems, cloud-native microservices, and backend platforms.  
 
 I specialize in designing **high-availability systems**, **event-driven architectures**, and **cloud infrastructure solutions** that support large-scale applications.
 
