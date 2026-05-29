@@ -2,6 +2,7 @@
 
 🚀 Software Engineer | Backend Engineer | Cloud & Distributed Systems Developer  
 🔗 [LinkedIn](https://www.linkedin.com/in/snehal-patare-006412162/) | [GitHub](https://github.com/SnelPatare)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SnelPatare&color=blue&style=flat)
 
 ---
